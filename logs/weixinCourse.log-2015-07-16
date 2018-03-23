@@ -1,0 +1,2 @@
+[ERROR] 2015-07-16 15:40:28,098    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[INFO ] 2015-07-16 15:59:22,810    com.cy.wx.util.AdvancedUtil 设置用户备注名成功 errcode:0 errmsg:ok

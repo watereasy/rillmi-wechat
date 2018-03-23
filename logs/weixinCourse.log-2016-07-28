@@ -1,0 +1,4 @@
+[ERROR] 2016-07-28 13:53:09,391    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:41001 errmsg:access_token missing, hints: [ req_id: cpTRGa0189ns72 ]
+[ERROR] 2016-07-28 13:53:26,719    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:41001 errmsg:access_token missing, hints: [ req_id: 4hp3sa0206ns90 ]
+[ERROR] 2016-07-28 13:53:52,099    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: UhB_aA0232ns81 ]
+[ERROR] 2016-07-28 13:54:47,568    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: 3hblBA0287ns45 ]

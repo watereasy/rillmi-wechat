@@ -1,0 +1,2 @@
+[ERROR] 2016-08-01 15:38:07,094        com.cy.wx.util.MenuUtil 创建个性化菜单失败 errcode:65314 errmsg:invalid city info hint: [T0ErdA0086vr18]
+[INFO ] 2016-08-01 16:08:41,026        com.cy.wx.util.MenuUtil 删除个性化菜单成功

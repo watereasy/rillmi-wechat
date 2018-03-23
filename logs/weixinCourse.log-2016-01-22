@@ -1,0 +1,3 @@
+[WARN ] 2016-01-22 11:13:22,029         net.sf.json.JSONObject Tried to assign property page_id:java.lang.Integer to bean of class com.cy.wx.shake.DeviceApplyStatusResp
+[WARN ] 2016-01-22 11:13:22,031         net.sf.json.JSONObject Tried to assign property openid:java.lang.String to bean of class com.cy.wx.shake.DeviceApplyStatusResp
+[WARN ] 2016-01-22 11:13:22,031         net.sf.json.JSONObject Tried to assign property poi_id:java.lang.Integer to bean of class com.cy.wx.shake.DeviceApplyStatusResp

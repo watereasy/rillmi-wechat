@@ -1,0 +1,6 @@
+[ERROR] 2015-08-04 09:59:44,836        com.cy.wx.util.CardUtil 获取卡券颜色列表失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[ERROR] 2015-08-04 10:00:42,313        com.cy.wx.util.CardUtil 获取卡券颜色列表失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[INFO ] 2015-08-04 10:03:14,087        com.cy.wx.util.CardUtil 获取卡券颜色列表成功
+[INFO ] 2015-08-04 11:46:16,673        com.cy.wx.util.CardUtil 获取卡券颜色列表成功
+[ERROR] 2015-08-04 11:47:24,429        com.cy.wx.util.CardUtil 获取卡券颜色列表失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[INFO ] 2015-08-04 17:07:46,273        com.cy.wx.util.CardUtil 获取卡券颜色列表成功

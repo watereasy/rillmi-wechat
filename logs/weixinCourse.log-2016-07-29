@@ -1,0 +1,2 @@
+[ERROR] 2016-07-29 15:03:52,793    com.cy.wx.util.AdvancedUtil 获取关注者列表失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest hint: [oeX6ya0832vr23]
+[ERROR] 2016-07-29 15:04:49,840    com.cy.wx.util.AdvancedUtil 获取关注者列表失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest hint: [31F_aA0889vr22]

@@ -1,0 +1,3 @@
+[ERROR] 2017-12-04 16:49:49,254    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:42001 errmsg:access_token expired, hints: [ req_id: XtXppa0399s158 ]
+[ERROR] 2017-12-04 16:53:54,284    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:42001 errmsg:access_token expired, hints: [ req_id: VOKLpA0643s152 ]
+[ERROR] 2017-12-04 16:54:59,513    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: TBjNVA0709s106 ]

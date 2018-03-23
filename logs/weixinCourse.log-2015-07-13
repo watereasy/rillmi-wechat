@@ -1,0 +1,12 @@
+[INFO ] 2015-07-13 15:17:59,606    com.cy.wx.util.AdvancedUtil 消息内容：{"kf_account":"watereasy@rill2mi","nickname":"氺易","password":"E10ADC3949BA59ABBE56E057F20F883E"}
+[ERROR] 2015-07-13 15:18:00,271    com.cy.wx.util.AdvancedUtil 添加客服帐号失败 errcode:61450 errmsg:system error
+[INFO ] 2015-07-13 15:23:34,587    com.cy.wx.util.AdvancedUtil 消息内容：{"kf_account":"watereasy@rill2mi","nickname":"氺易","password":"E10ADC3949BA59ABBE56E057F20F883E"}
+[ERROR] 2015-07-13 15:23:35,327    com.cy.wx.util.AdvancedUtil 添加客服帐号失败 errcode:61450 errmsg:system error
+[ERROR] 2015-07-13 15:28:49,418    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error
+[ERROR] 2015-07-13 15:37:52,525    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error
+[ERROR] 2015-07-13 15:40:05,218    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error
+[INFO ] 2015-07-13 16:24:48,233    com.cy.wx.util.AdvancedUtil 创建临时带参二维码成功 ticket:gQEC8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL1MwanM4T1htU0tZeDNHdHhTR2J3AAIE0HWjVQMEWAIAAA== expire_seconds:600
+[INFO ] 2015-07-13 16:24:48,493    com.cy.wx.util.AdvancedUtil 根据ticket换取二维码成功，filePath=D:/Download/gQEC8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL1MwanM4T1htU0tZeDNHdHhTR2J3AAIE0HWjVQMEWAIAAA==.jpg
+[INFO ] 2015-07-13 16:28:20,789    com.cy.wx.util.AdvancedUtil 创建永久带参二维码成功 ticket:gQG_8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL3dFaTFEcGZtQmFaODJlS2JFV1R3AAIEpHajVQMEAAAAAA==
+[INFO ] 2015-07-13 16:28:20,996    com.cy.wx.util.AdvancedUtil 根据ticket换取二维码成功，filePath=D:/Download/gQG_8DoAAAAAAAAAASxodHRwOi8vd2VpeGluLnFxLmNvbS9xL3dFaTFEcGZtQmFaODJlS2JFV1R3AAIEpHajVQMEAAAAAA==.jpg
+[INFO ] 2015-07-13 16:39:09,875    com.cy.wx.util.AdvancedUtil 长链接转短链接成功 shortUrl:http://w.url.cn/s/Ae8hx2s

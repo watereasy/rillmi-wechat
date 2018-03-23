@@ -1,0 +1,4 @@
+[ERROR] 2016-11-03 18:00:40,987    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: DNKZFA0240ns90 ]
+[ERROR] 2016-11-03 18:24:42,101    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: H1hbra0682ns89 ]
+[ERROR] 2016-11-03 18:30:24,791    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: wrSZ9a0024s111 ]
+[ERROR] 2016-11-03 18:31:44,114    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: C5hYCa0104s111 ]

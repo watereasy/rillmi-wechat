@@ -1,0 +1,6 @@
+[ERROR] 2015-07-09 11:04:37,603    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[ERROR] 2015-07-09 11:05:36,673    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[ERROR] 2015-07-09 11:14:24,046    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest
+[ERROR] 2015-07-09 11:20:14,388    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error
+[ERROR] 2015-07-09 11:21:10,054    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error
+[ERROR] 2015-07-09 11:46:16,404    com.cy.wx.util.AdvancedUtil 获取客服基本信息失败 errcode:-1 errmsg:system error

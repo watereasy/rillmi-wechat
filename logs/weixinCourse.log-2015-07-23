@@ -1,0 +1,5 @@
+[INFO ] 2015-07-23 16:21:38,899    com.cy.wx.util.AdvancedUtil 分组群发图文消息成功 errcode:{} errmsg:{}
+[ERROR] 2015-07-23 17:35:51,761    com.cy.wx.util.AdvancedUtil OpenID群发图文消息失败 errcode:40007 errmsg:invalid media_id
+[INFO ] 2015-07-23 17:37:56,056    com.cy.wx.util.AdvancedUtil OpenID群发图文消息成功 msgId:-1838906461
+[INFO ] 2015-07-23 20:39:52,999    com.cy.wx.util.AdvancedUtil 预览群发图文消息成功 errcode:{} errmsg:{}
+[INFO ] 2015-07-23 20:41:49,653    com.cy.wx.util.AdvancedUtil 预览群发图文消息成功 errcode:{} errmsg:{}

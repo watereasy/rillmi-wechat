@@ -1,0 +1,9 @@
+[ERROR] 2018-02-01 17:25:58,045        com.cy.wx.util.UserUtil 获取用户信息(批量)失败 errcode:42001 errmsg:access_token expired hint: [pRZLna0202vr60!]
+[ERROR] 2018-02-01 18:02:23,118        com.cy.wx.util.UserUtil 用户oR8rRvteSocpyAMs3n4f7UbRYQy8已取消关注
+[ERROR] 2018-02-01 18:03:04,309        com.cy.wx.util.UserUtil 用户oR8rRvteSocpyAMs3n4f7UbRYQy8已取消关注
+[ERROR] 2018-02-01 18:05:27,946        com.cy.wx.util.UserUtil 用户oR8rRvg-4EN2toyf1pfyE20h4QQw已取消关注
+[ERROR] 2018-02-01 18:33:56,223        com.cy.wx.util.UserUtil 用户oR8rRvteSocpyAMs3n4f7UbRYQy8已取消关注
+[ERROR] 2018-02-01 18:36:59,510        com.cy.wx.util.UserUtil 用户oR8rRvteSocpyAMs3n4f7UbRYQy8已取消关注
+[ERROR] 2018-02-01 18:41:22,232    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: xAuH1a0726s179 ]
+[ERROR] 2018-02-01 18:41:45,636        com.cy.wx.util.UserUtil 用户oR8rRvteSocpyAMs3n4f7UbRYQy8已取消关注
+[ERROR] 2018-02-01 18:42:54,466    com.cy.wx.util.AdvancedUtil 获取用户信息失败 errcode:40001 errmsg:invalid credential, access_token is invalid or not latest, hints: [ req_id: Tn_EjA0818s176 ]
